@@ -6,3 +6,5 @@ Reference: Abdalla, Michel & Florian, Bourse & Caro, Angelo & Pointcheval, David
 A encryption and decryption method for inner-product based on the paper above. 
 
 Examples are already in the code.
+
+Both of the two python scripts work correctly, but some space optimization is carried out in "DDH-IP.py" one. 
